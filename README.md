@@ -1,7 +1,7 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+### Date :
+### Reg. No. : 212222110049
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -48,8 +48,23 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
 
+Sample Input–Output Prompt Table
+
+<img width="805" height="272" alt="image" src="https://github.com/user-attachments/assets/57106b7c-509f-486a-9306-19cf67d9a884" />
+
+Prompt:A realistic mountain landscape during sunset with purple mountains, a calm river,reflecting the orange sky, soft clouds, and pine trees in the foreground
+
+<img width="1024" height="1024" alt="502993880-de023788-e7f6-43ad-b157-85e85a8337ff" src="https://github.com/user-attachments/assets/073e50c8-7354-450c-a254-805d08d0565d" />
+
+Prompt: A realistic city street at night with glowing streetlights, wet pavement reflecting,neon signs, a few pedestrians walking, and tall buildings in the background
+
+<img width="1024" height="1024" alt="502994056-4366855f-ffc3-47d6-9612-9fca03fc0ace" src="https://github.com/user-attachments/assets/8fe93275-aada-43f5-bf23-b7232861d9a6" />
+
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
 
+Result:
 
-## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+Thus the key elements within the image is identified and the details are used to generate an image as close as possible to the original image.
+
+
